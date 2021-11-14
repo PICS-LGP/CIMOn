@@ -1,0 +1,1 @@
+xcopy ..\target\protege.plugin.examples-2.0.0-SNAPSHOT.jar ..\protege\protege-desktop\target\protege-5.2.1-SNAPSHOT-platform-independent\Protege-5.2.1-SNAPSHOT\bundles /y

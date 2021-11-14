@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+    <VSNode splits="0.607249480243034">
+        <HSNode splits="0.08005174499660696">
+            <CNode>
+                <Component label="Context Editor">
+                    <Property id="pluginId" value="protege.plugin.examples.ContextSkeletonView"/>
+                </Component>
+            </CNode>
+        </HSNode>
+    </VSNode>
+</layout>
